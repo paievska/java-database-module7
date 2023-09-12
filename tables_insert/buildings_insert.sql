@@ -1,0 +1,26 @@
+INSERT INTO `osbb`.`buildings`
+(`id`,
+`building_number`,
+`number_of_apartments`,
+`adress`)
+VALUES
+(1, 'B1', 5, 'Stelmaha, 1'),
+(2, 'B2', 4, 'Stelmaha, 2'),
+(3, 'B3', 3, 'Stelmaha, 3'),
+(4, 'B4', 5, 'Stelmaha, 4'),
+(5, 'B5', 4, 'Stelmaha, 5'),
+(6, 'B6', 3, 'Stelmaha, 6'),
+(7, 'B7', 4, 'Stelmaha, 7'),
+(8, 'B8', 2, 'Stelmaha, 8'),
+(9, 'B9', 4, 'Stelmaha, 9'),
+(10, 'B10', 3, 'Stelmaha, 10'),
+(11, 'B11', 5, 'Stelmaha, 11'),
+(12, 'B12', 4, 'Stelmaha, 12'),
+(13, 'B13', 3, 'Stelmaha, 13'),
+(14, 'B14', 4, 'Stelmaha, 14'),
+(15, 'B15', 2, 'Stelmaha, 15'),
+(16, 'B16', 3, 'Stelmaha, 16'),
+(17, 'B17', 4, 'Stelmaha, 17'),
+(18, 'B18', 2, 'Stelmaha, 18'),
+(19, 'B19', 3, 'Stelmaha, 19'),
+(20, 'B20', 4, 'Stelmaha, 20');
