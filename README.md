@@ -3,19 +3,19 @@
 ### Завдання:
 • За допомогою MySQL Workbench, використовуючи лише команди SQL, створити БД учасників ОСББ багато будинкового ЖК, яка розглядалася в минулому ДЗ.
 
-![image](https://github.com/paievska/java-database-module7/assets/71642076/2f03b360-8434-498d-85b1-fdb64f654260)
+![image](https://github.com/paievska/java-database-module7/assets/71642076/15f88d81-5358-4383-8db6-85d0d40ae584)
+
 
 • За допомогою MySQL Workbench, використовуючи лише команди SQL, наповнити створену БД записами про 100+ власників.
 
-![image](https://github.com/paievska/java-database-module7/assets/71642076/659e4d03-6abe-4e74-85c2-0c9f1971a204)
+![image](https://github.com/paievska/java-database-module7/assets/71642076/8cc93199-d701-414a-8591-353b45fd4b23)
 
 • За допомогою MySQL Workbench, використовуючи лише команди SQL, зробити запит до БД, результатом якого буде список власників квартир, які не мають права в'їзду на територію ЖК, з їхніми з ПІБ та електронною поштою,
 а також номером і адресою будинку, номером і площею квартири, якщо вони фактично проживають в ЖК і при цьому мають менше двох квартир у власності.
 
-![image](https://github.com/paievska/java-database-module7/assets/71642076/0c6a4a71-ec70-4386-bfe9-b44d40519e15)
-![image](https://github.com/paievska/java-database-module7/assets/71642076/c737803f-f0a7-4ddd-8d07-3569328acf5c)
-
+![image](https://github.com/paievska/java-database-module7/assets/71642076/2a8837b2-ca4a-436e-a954-4a71ed074036)
+![image](https://github.com/paievska/java-database-module7/assets/71642076/c7d66ef1-2f12-4006-8d50-cbd8bd35b2d1)
 
 • За допомогою MySQL Workbench, проаналізувати достатність наявних індексів в БД, та підготувати команди SQL для додавання нових за результатом аналізу.
 
-![image](https://github.com/paievska/java-database-module7/assets/71642076/e8a525e3-b460-487b-aab3-cc458048e0b4)
+![image](https://github.com/paievska/java-database-module7/assets/71642076/db51084f-90c7-4bd2-827e-7728af65f8f2)
